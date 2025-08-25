@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Kaique Souza 
+**RA:** 10444789
 
 ---
 
@@ -24,15 +24,11 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
-```
-[Sua resposta aqui]
-```
+git status, usei bastante para atualizar e verificar a situação das minhas alterações 
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
-```
-[Sua resposta aqui]
-```
+
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
