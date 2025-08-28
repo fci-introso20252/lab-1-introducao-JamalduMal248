@@ -24,7 +24,7 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
-git status, usei bastante para atualizar e verificar a situação das minhas alterações 
+ 
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
